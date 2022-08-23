@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1661138508 source:d:\unlam\progra2do2022\tp1-ejercicio17\funciones.c
+	"header.h"
+
+1661138463 d:\unlam\progra2do2022\tp1-ejercicio17\header.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1661138420 source:d:\unlam\progra2do2022\tp1-ejercicio17\main.c
+	"header.h"
+
